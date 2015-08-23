@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">520</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first">"我爱你\n\n5 2 0"</string>
+    <string name="say">亲爱的，我们在一起一年多了，感谢你的陪伴，我会好好照顾你的，我也相信我们会走的越来越远!</string>
+
+</resources>
